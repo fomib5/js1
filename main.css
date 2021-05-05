@@ -1,0 +1,12 @@
+.watch {
+    margin: 50px 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.btn > button {
+    margin: 0 5px;
+    border: 1px solid #808080;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: #C0C0C0;
+}
